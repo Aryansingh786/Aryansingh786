@@ -1,4 +1,4 @@
-from fpdf import FPDF
+from fpdf import PDF
 
 class PDF(FPDF):
     def header(self):
